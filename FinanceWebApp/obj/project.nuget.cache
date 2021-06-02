@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nNha/TH83TUEOXnieEaDFMq7x0GvXdg74pZTvLIELhzV55OBchfqFODCBPW6b+Abi0vrDk0/CQ0X1436n0rgUg==",
+  "dgSpecHash": "KlihkLaUEQUfubhAvotYOKDxNvQyy3xVL7Aa1aZZT3DVfQ/cKqIwTSzw5dfBYIpobnhiwrp2c/FS229THzd/xw==",
   "success": true,
   "projectFilePath": "C:\\Repos\\FinanceWebApp\\FinanceWebApp\\FinanceWebApp.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "C:\\Users\\tkach\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.4\\microsoft.jsinterop.webassembly.5.0.4.nupkg.sha512",
     "C:\\Users\\tkach\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\tkach\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\tkach\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.4\\microsoft.netcore.app.runtime.browser-wasm.5.0.4.nupkg.sha512"
+    "C:\\Users\\tkach\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.6\\microsoft.netcore.app.runtime.browser-wasm.5.0.6.nupkg.sha512"
   ],
   "logs": []
 }

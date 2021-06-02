@@ -90,7 +90,7 @@ using FinanceWebApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Repos\FinanceWebApp\FinanceWebApp\Shared\NavMenu.razor"
+#line 33 "C:\Repos\FinanceWebApp\FinanceWebApp\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
