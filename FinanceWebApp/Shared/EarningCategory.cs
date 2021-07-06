@@ -5,7 +5,13 @@ using System.Threading.Tasks;
 
 namespace FinanceWebApp.Shared
 {
-    public class EarningCategory
+    public enum EarningCategory
     {
+        Salary,
+        CapitalGain,
+        Freelancing,
+        Coaching,
+        Flipping,
+        Gift,
     }
 }

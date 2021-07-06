@@ -1,4 +1,12 @@
-﻿<h3>EarningForm</h3>
+﻿<div class="card">
+    <div class="card-header">
+        Add an earning
+    </div>
+    <div class="card-body">
+        <EditForm Model="@earning" OnValidSubmit="@HandleValidSubmit">
+        </EditForm>
+    </div>
+</div>
 
 @code {
 
