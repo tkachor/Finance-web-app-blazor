@@ -13,5 +13,5 @@ namespace FinanceWebApp.Shared
         Coaching,
         Flipping,
         Gift,
-    }
+    } 
 }
