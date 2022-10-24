@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace FinanceMentor.Shared
 {
-    internal class EarningsCategory
+    public enum EarningCategory
     {
+        Salary,
+        CapitalGain,
+        Freelancing,
+        Coaching,
+        Flipping,
+        Gift,
     }
 }
